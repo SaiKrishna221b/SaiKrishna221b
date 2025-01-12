@@ -3,15 +3,14 @@
 <h3 align="center">A Software Engineer who builds applications as products with a story</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gsaikrishna221&label=Profile%20views&color=0e75b6&style=flat" alt="gsaikrishna221" /> </p>
 
 - 🔭 I’m currently working on **an app that lets users share music playlists across apps**
 
 - 💬 Ask me about **backend web development, deployment, and Infrastructure as Code (IaC)**
 
-- 📫 How to reach me: **sai.krsishna221b@gmail.com**
+- 📫 How to reach me: **sai.krishna221b@gmail.com**
 
-- ⚡ Fun fact: **I love designing scalable systems with clean, reusable code.**
+- ⚡ What do I do? : **I love designing scalable systems, integrations with cloud and deploy them using container orchestration techniques.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
