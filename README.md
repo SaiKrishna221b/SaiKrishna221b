@@ -22,11 +22,11 @@
 
 - 💬 Ask me about **Backend Web Engineering, Cloud Integrations, Deployment Strategies, and Infrastructure as Code.**
 
-- 📫 How to reach me: **sai.krishna221b@gmail.com**
-
 - ⚡ What I bring to the table: **I love designing scalable systems, integrating with the cloud, and deploying using container orchestration and IaC.**
 
 - 🏃‍♂ What I do to recharge: **Football, Video Games, Books, Meditation, Working Out, and Volunteering.**
+
+- - 📫 How to reach me: **sai.krishna221b@gmail.com**
 
 <br>
 
