@@ -26,7 +26,7 @@
 
 - 🏃‍♂ What I do to recharge: **Football, Video Games, Books, Meditation, Working Out, and Volunteering.**
 
-- - 📫 How to reach me: **sai.krishna221b@gmail.com**
+- 📫 How to reach me: **sai.krishna221b@gmail.com**
 
 <br>
 
